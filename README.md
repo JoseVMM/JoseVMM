@@ -1,4 +1,4 @@
-- 👋 Hi, I’m José Venâncioo
+- 👋 Hi, I’m José Venâncio
 - 👀 I’m interested in 🐍
 - 🌱 I’m currently learning 🐍
 - 💞️ I’m looking to collaborate on 🐍
